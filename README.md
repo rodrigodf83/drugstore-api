@@ -1,3 +1,3 @@
 # drugstore-api
 
-Thia api is a object of stydy.
+Thia api is a object of study.
